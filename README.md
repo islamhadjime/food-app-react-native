@@ -6,9 +6,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Image
 | | |
 |-|-|
-| ![Скриншот 1](https://github.com/islamhadjime/PERN-stack/assets/images/2025-07-25_12-12-11.png) | ![Скриншот 2](https://github.com/islamhadjime/PERN-stack/assets/images/2025-07-25_12-12-49.png) |
-| ![Скриншот 3](https://github.com/islamhadjime/PERN-stack/assets/images/2025-07-25_12-13-03.png) | ![Скриншот 4](https://github.com/islamhadjime/PERN-stack/assets/images/2025-07-25_12-13-18.png) |
-| ![Скриншот 5](https://github.com/islamhadjime/PERN-stack/assets/images/2025-07-25_12-13-51.png) | |
+| ![Скриншот 1](https://github.com/islamhadjime/food-app-react-native/assets/images/2025-07-25_12-12-11.png) | ![Скриншот 2](https://github.com/islamhadjime/food-app-react-native/assets/images/2025-07-25_12-12-49.png) |
+| ![Скриншот 3](https://github.com/islamhadjime/food-app-react-native/assets/images/2025-07-25_12-13-03.png) | ![Скриншот 4](https://github.com/islamhadjime/food-app-react-native/assets/images/2025-07-25_12-13-18.png) |
+| ![Скриншот 5](https://github.com/islamhadjime/food-app-react-native/assets/images/2025-07-25_12-13-51.png) | |
 
 
 
